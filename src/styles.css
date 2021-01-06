@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Hind:wght@400;700&amp;family=Manrope:wght@200;300;400;600;700;800&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,700;0,800;0,900;1,400&amp;display=swap");
+@import "./assets/vendor/bootstrap/css/bootstrap.min.css";
+@import "./assets/vendor/icofont/icofont.min.css";
+@import "./assets/vendor/remixicon/remixicon.css";
+@import "./assets/vendor/boxicons/css/boxicons.min.css";
+@import "./assets/vendor/owl.carousel/assets/owl.carousel.min.css";
+@import "./assets/vendor/venobox/venobox.css";
+@import "./assets/css/template.css";
+
+#hero h2 {
+    font-size: 55px;
+}
